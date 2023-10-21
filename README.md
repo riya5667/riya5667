@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riya5667
-- 👀 I’m interested in open source,back end and ux/ui 
+- 👀 I’m interested in 
 - 🌱 I’m currently learning c and c++ languages 
 - 💞️ I’m looking to collaborate on ...
 - 📫 my email id is- riyasingh5667parihar@gmail.com
