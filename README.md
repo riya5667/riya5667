@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riya5667
 - 👀 I’m interested in 
-- 🌱 I’m currently learning c and c++ languages 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning js
+- - 💞️ I’m looking to collaborate on ...
 - 📫 my email id is- riyasingh5667parihar@gmail.com
 
 <!---
