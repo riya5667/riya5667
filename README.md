@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riya5667
-- 👀 I’m interested in 
-- 🌱 I’m currently learning js
-- - 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in cloud computing
+- 🌱 I’m currently learning python with django 
+- - 💞️ I’m looking to collaborate on interactive projects
 - 📫 my email id is- riyasingh5667parihar@gmail.com
 
 <!---
