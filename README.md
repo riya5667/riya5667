@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riya5667
-- 👀 I’m interested in cloud computing
+- 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning python with django 
 - - 💞️ I’m looking to collaborate on interactive projects
 - 📫 my email id is- riyasingh5667parihar@gmail.com
