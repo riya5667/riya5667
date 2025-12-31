@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-# 🖤💗 YOUR NAME HERE 💗🖤  
+# 🖤💗 RIYA SINGH 💗🖤  
 ### *Frontend Developer | Designer | Tech Enthusiast*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff69b4&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontColor=ffffff&fontSize=40" />
@@ -37,16 +37,6 @@
 
 ---
 
-## 🖤 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&background=000000&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
-</p>
-
----
 
 ## 💗 Connect With Me
 <p align="center">
