@@ -1,122 +1,127 @@
 <div align="center">
 
-```ascii
-██████╗ ██╗██╗   ██╗ █████╗     ███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗
-██╔══██╗██║╚██╗ ██╔╝██╔══██╗    ██╔════╝██║████╗  ██║██╔════╝ ██║  ██║
-██████╔╝██║ ╚████╔╝ ███████║    ███████╗██║██╔██╗ ██║██║  ███╗███████║
-██╔══██╗██║  ╚██╔╝  ██╔══██║    ╚════██║██║██║╚██╗██║██║   ██║██╔══██║
-██║  ██║██║   ██║   ██║  ██║    ███████║██║██║ ╚████║╚██████╔╝██║  ██║
-╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
-```
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=RIYA%20SINGH&fontSize=60&fontColor=FF69B4&animation=twinkling&fontAlignY=35)
 
-### `< LILY />` • **System Online** • `Version 2.0.26`
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Building+The+Future" alt="Typing SVG" />
-
----
-
-### **[ NEURAL INTERFACE ]**
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Riya Singh"
-        self.alias = "Lily"
-        self.role = "Full Stack Developer"
-        self.status = "Building amazing things"
-        self.location = "Earth.coordinates(lat, lng)"
-        
-    def get_skills(self):
-        return ["Python", "JavaScript", "React", "Node.js", "AI/ML"]
-```
-
----
-
-### **⚡ CORE SYSTEMS**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&repeat=true&width=435&lines=%E2%9C%A8+LILY+%E2%9C%A8;SYSTEM+ONLINE;FULL+STACK+DEV;AI+ENTHUSIAST" alt="Typing SVG" />
 
 ```
-┌─────────────────────────────────────────────────┐
-│  🎯  Languages    : Python | JavaScript | Java  │
-│  ⚙️   Frameworks   : React | Node.js | Django   │
-│  🗄️  Databases    : MongoDB | PostgreSQL       │
-│  🛠️  Tools        : Git | Docker | VS Code     │
-│  🤖  Focus        : AI/ML | Web Dev | APIs     │
-└─────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════╗
+║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+║  ▓█                NEURAL  INTERFACE                    █▓  ║
+║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### **📊 SYSTEM METRICS**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riya5667&show_icons=true&theme=radical&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&ring=FF1493&fire=FF1493&currStreakLabel=FF1493&background=000000" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&title_color=FF1493&text_color=FFFFFF&bg_color=000000" alt="Top Languages" />
-</p>
-
----
-
-### **🚀 ACTIVE PROJECTS**
+### ⟡ IDENTITY MATRIX ⟡
 
 ```yaml
-Project_Alpha:
-  name: "AI Assistant Bot"
-  status: "In Development"
-  tech: ["Python", "TensorFlow", "NLP"]
-  
-Project_Beta:
-  name: "Portfolio Website"
-  status: "Live"
-  tech: ["React", "Three.js", "Node.js"]
-  
-Project_Gamma:
-  name: "Open Source Contribution"
-  status: "Ongoing"
-  tech: ["Various"]
+✦ NAME: "Riya Singh"
+✦ ALIAS: "Lily"  
+✦ ROLE: "Full Stack Developer"
+✦ STATUS: "◉ ONLINE"
+✦ LOCATION: "Indore, IN"
+✦ MISSION: "Building the future, one commit at a time"
 ```
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### **🌐 CONNECT PROTOCOLS**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/riya-singh-00505b294"><img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-  <a href="https://twitter.com/Riys5667"><img src="https://img.shields.io/badge/Twitter-FF1493?style=for-the-badge&logo=twitter&logoColor=black"/></a>
-  <a href="mailto:riyasingh5667parihar@gmail.com"><img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-</p>
-
----
-
-### **💫 CURRENT STATUS**
-
-```javascript
-const lily = {
-  code: ["Python", "JavaScript", "TypeScript"],
-  learning: "Advanced AI & Machine Learning",
-  coffee_consumed: "∞",
-  projects_completed: "25+",
-  motto: "Code. Create. Innovate."
-};
-```
-
----
+### ⟡ TECH STACK ⟡
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FF1493&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Python-FF1493?style=for-the-badge&logo=python&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/React-FF1493?style=for-the-badge&logo=react&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Node.js-FF1493?style=for-the-badge&logo=node.js&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/TypeScript-FF1493?style=for-the-badge&logo=typescript&logoColor=black&labelColor=000000"/>
 </p>
 
 <p align="center">
-  <sub>⚡ Powered by caffeine and curiosity | Built with 💗 by Lily</sub>
+  <img src="https://img.shields.io/badge/MongoDB-FF1493?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-FF1493?style=for-the-badge&logo=postgresql&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Docker-FF1493?style=for-the-badge&logo=docker&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Git-FF1493?style=for-the-badge&logo=git&logoColor=black&labelColor=000000"/>
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### ⟡ STATISTICS ⟡
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&title_color=FF1493&icon_color=FF1493&text_color=FF69B4&bg_color=0d1117&border_color=FF1493&border_radius=15" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&ring=FF1493&fire=FF1493&currStreakLabel=FF1493&background=0d1117&border=FF1493&stroke=FF1493" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&title_color=FF1493&text_color=FF69B4&bg_color=0d1117&border_color=FF1493&border_radius=15" alt="Languages" />
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### ⟡ ACTIVE MISSIONS ⟡
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  ✦ AI ASSISTANT BOT                                     ┃
+┃    └─ Status: [██████████░░░░░░░░░░] 50% Complete      ┃
+┃    └─ Tech: Python • TensorFlow • NLP                   ┃
+┃                                                          ┃
+┃  ✦ PORTFOLIO WEBSITE                                    ┃
+┃    └─ Status: [████████████████████] LIVE               ┃
+┃    └─ Tech: React • Three.js • Node.js                  ┃
+┃                                                          ┃
+┃  ✦ OPEN SOURCE CONTRIBUTIONS                            ┃
+┃    └─ Status: [████████████████████] ONGOING            ┃
+┃    └─ Tech: Various                                     ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### ⟡ CONNECT ⟡
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_PROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000"/>
+  </a>
+  <a href="https://twitter.com/YOUR_HANDLE">
+    <img src="https://img.shields.io/badge/Twitter-FF1493?style=for-the-badge&logo=twitter&logoColor=black&labelColor=000000"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000"/>
+  </a>
+  <a href="https://YOUR_PORTFOLIO.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=000000"/>
+  </a>
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### ⟡ ACTIVITY GRAPH ⟡
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0d1117&color=FF1493&line=FF1493&point=FF69B4&area=true&hide_border=false&border_color=FF1493" alt="Activity Graph" />
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff1493&style=for-the-badge&label=VISITORS" alt="Profile Views"/>
 </p>
 
 ```
-[ SYSTEM STATUS: OPERATIONAL ] • [ UPTIME: 99.9% ] • [ NEXT UPDATE: SOON ]
+╔═══════════════════════════════════════════════════════════════╗
+║           ✦ POWERED BY CAFFEINE & CURIOSITY ✦                ║
+║              ✦ BUILT WITH 💗 BY LILY ✦                       ║
+║                                                               ║
+║    [ ◉ SYSTEM STATUS: OPERATIONAL ]  [ ↑ UPTIME: 99.9% ]    ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
 
 </div>
