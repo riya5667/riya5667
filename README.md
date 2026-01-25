@@ -9,7 +9,7 @@
      HERO SECTION - Profile Avatar & Introduction
      ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="pf.png" width="200" alt="Lily" style="border-radius: 9999px;" />
+<img src="banner.png" width="200" alt="Lily" style="border-radius: 9999px;" />
 
 
 # <span style="color: #ff1493;">✨ Lily ✨</span>
@@ -29,9 +29,9 @@
 
 ### 💫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-lilyxybug-ff1493?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/riya5667)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lily_Chauhan-ff1493?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/riya-singh-00505b294)
-[![Twitter](https://img.shields.io/badge/Twitter-@lilyxybug-ff1493?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/riys5667)
+[![GitHub](https://img.shields.io/badge/GitHub-lily-ff1493?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/riya5667)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lily-ff1493?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/riya-singh-00505b294)
+[![Twitter](https://img.shields.io/badge/Twitter-@lily-ff1493?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/riys5667)
 
 <br>
 
