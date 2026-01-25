@@ -148,7 +148,7 @@ class Lily:
         self.pronouns = "she/her"
         self.location = "Coding from anywhere 🌍"
         self.current_focus = ["Full Stack", "Mobile Dev"]
-        self.fun_fact = "I debug in my dreams 😴💭"
+        self.fun_fact = "I get bored easily 😴💭"
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something cool together! 💫")
