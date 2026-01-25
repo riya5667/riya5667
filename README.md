@@ -9,14 +9,14 @@
      HERO SECTION - Profile Avatar & Introduction
      ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://github.com/lilyxybug.png" alt="Lily" width="200" style="border-radius: 50%; border: 4px solid #ff1493; box-shadow: 0 0 20px #ff1493;">
+<img src="pf.png" alt="Lily" width="200" style="border-radius: 50%; border: 4px solid #ff1493; box-shadow: 0 0 20px #ff1493;">
 
 # <span style="color: #ff1493;">✨ Lily ✨</span>
 
 ### `Student • Full Stack Dev • Python & React`
 
 <p align="center">
-  <em>"Nice, using dark mode — you're a real developer now 😎"</em>
+  <em>"I'm Always bored 😎"</em>
 </p>
 
 <!-- Neon Divider -->
