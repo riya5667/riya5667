@@ -9,7 +9,8 @@
      HERO SECTION - Profile Avatar & Introduction
      ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="pf.png" alt="Lily" width="200" style="border-radius: 50%; border: 4px solid #ff1493; box-shadow: 0 0 20px #ff1493;">
+<img src="pf.png" width="200" alt="Lily" style="border-radius: 9999px;" />
+
 
 # <span style="color: #ff1493;">✨ Lily ✨</span>
 
