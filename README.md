@@ -29,9 +29,9 @@
 
 ### 💫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-lilyxybug-ff1493?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/lilyxybug)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lily_Chauhan-ff1493?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/lily-chauhan-7bb7a4280)
-[![Twitter](https://img.shields.io/badge/Twitter-@lilyxybug-ff1493?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/lilyxybug)
+[![GitHub](https://img.shields.io/badge/GitHub-lilyxybug-ff1493?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/riya5667)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lily_Chauhan-ff1493?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/riya-singh-00505b294)
+[![Twitter](https://img.shields.io/badge/Twitter-@lilyxybug-ff1493?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/riys5667)
 
 <br>
 
@@ -124,7 +124,7 @@
 ### 🎯 What I Build
 
 - 🏆 **Hackathon Projects** - Turning ideas into reality under pressure ⚡
-- 🧠 **ADHD Learning Platform** - Making education accessible & fun 💖
+- 🧠 **Sikkim tourism** - promoting tourism 💖
 - 🎀 **Cute UI Projects** - Because code can be beautiful too 🌸
 - 🐱 **Random Cool Stuff** - Experimenting with new tech daily ✨
 
